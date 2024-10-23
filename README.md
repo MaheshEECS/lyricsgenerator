@@ -1,4 +1,5 @@
-# Lyrics-Generator(https://maheshlyricsgenerator.streamlit.app/)
+# Lyrics-Generator
+(https://maheshlyricsgenerator.streamlit.app/)
 
 ![Lyrics Writing Bot](https://img.shields.io/badge/streamlit-v1.13.0-green) ![Python](https://img.shields.io/badge/python-v3.8%2B-blue)
 
