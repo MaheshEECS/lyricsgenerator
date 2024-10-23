@@ -24,8 +24,8 @@ The **Lyrics Generator** is a Streamlit application designed to assist lyricists
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MaheshEECS/Lyrics-Generator.git
-   cd Lyrics-Generator
+   git clone https://github.com/MaheshEECS/lyricsgenerator.git
+   cd lyricsgenerator
    ```
 
 2. **Install Required Packages**:
